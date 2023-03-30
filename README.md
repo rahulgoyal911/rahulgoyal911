@@ -27,6 +27,6 @@
 
 
 - 💻 I'm currently working at [smallcase](https://smallcase.com) as a Backend Engineer.  
-- 🌱 I’m currently learning more about Data Structures and Algorithms.
+- 🌱 I’m currently learning more about designing scalable systems
 - 🤔 I’m looking for project collaborations.
 - 📫 How to reach me: [LinkedIn - @Rahul](https://www.linkedin.com/in/rahulgoyal911/)
